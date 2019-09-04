@@ -1,2 +1,9 @@
-Update 04.09.2019
+Update : 01.09.2019
+  |- Added  login system
+
+Update : 02.09.2019
+  |- Added registration system
+  |- Added invite code system
+
+Update : 04.09.2019
   |- Added injector
