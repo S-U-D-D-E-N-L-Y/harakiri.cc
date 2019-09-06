@@ -7,3 +7,6 @@ Update : 02.09.2019
 
 Update : 04.09.2019
   |- Added injector
+
+Update : 06.09.2019
+  |- Added hwid check on login
